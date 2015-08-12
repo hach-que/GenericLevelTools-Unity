@@ -1,0 +1,7 @@
+*.csproj
+*.sln
+Assets/AssetStoreTools
+Assets/AssetStoreTools.meta
+Library/
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Temp/
